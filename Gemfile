@@ -22,6 +22,7 @@ end
 group :test do
   gem 'rspec-rails', '2.7.0'
   gem 'webrat', '0.7.3'
+  gem 'win32-process', '0.6.5'
   gem 'spork', '0.8.5'
   gem 'factory_girl_rails', '1.4.0'
 end
